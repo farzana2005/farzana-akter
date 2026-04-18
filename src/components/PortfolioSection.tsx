@@ -14,7 +14,7 @@ const projects = [
   { img: project2, title: "Life-Coach", desc: "Life-Coaching platform", link: "https://lightpink-sheep-138410.hostingersite.com/" },
   { img: project3, title: "Collectible Bag Store", desc: "Limited-edition pop culture bag brand website", link: "https://stashtoonz.com/" },
   { img: project4, title: "Social Impact Platform", desc: "Supporting vulnerable communities through real action.", link: "https://rebirth-impact.com/" },
-  { img: project5, title: "Student Management System", desc: "Property listing website", link: "https://sms-front-end-xi.vercel.app/" },
+  { img: project5, title: "Student Management System", desc: "Student Data Collection", link: "https://sms-front-end-xi.vercel.app/" },
   { img: project6, title: "Organization Website", desc: "Cloud platform marketing",link: "https://khoj-munalert-org-utwo.vercel.app/" },
 ];
 
